@@ -21,10 +21,9 @@ electrónico y fecha de registro.
 ## Requisitos Previos:
 ...............................................................
 * JDK 21
+* Plugin Lombok
 * Maven
 * PostgreSQL (u otra base de datos)
-* Kaspersky ( si es  necesario, asegúrate  de que no bloquee el 
-  puerto)
 
 =================================
 #        Configuración
@@ -104,7 +103,7 @@ java -jar target/App-0.0.1-SNAPSHOT.jar
 
 # MIT License
 
-## Copyright (c) [2024] [Y0i7]
+## Copyright (c) [2024] [Y0i7] [https://github.com/Y0i7]
 
 Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el "Software"), para utilizar el Software sin restricciones, incluyendo, sin limitación, los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y a permitir a las personas a quienes se les proporcione el Software a hacerlo, sujeto a las siguientes condiciones:
 
